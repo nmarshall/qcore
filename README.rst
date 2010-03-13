@@ -9,4 +9,4 @@ Requirements
 Boost python 
 
 
-.. qmlib_: http://github.com/lsbardel/qmlib
+.. _qmlib: http://github.com/lsbardel/qmlib
